@@ -10,4 +10,4 @@
 🚀 Always open to **Learn, Experiment, Build and Re-learn**  
 📫 Reach me at **[debajitguha04@gmail.com]**  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debajit&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Debajitgithub&show_icons=true&theme=radical)
