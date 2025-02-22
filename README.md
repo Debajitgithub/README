@@ -1,5 +1,5 @@
 # README
-### 👋 Hi, I'm Debajit!  
+### 👋 Hi, I'm Debajit Guha!  
 🔹 Passionate about **Machine Learning, Data Science, and C Programming**  
 🔹 Exploring **Computer Vision, Machine Learning and Web Development**  
 🔹 Interested in **DSA, C Programming and OOPS**  
